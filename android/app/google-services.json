@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15243801056",
+    "project_id": "e-fish-farm-app-1b8a2",
+    "storage_bucket": "e-fish-farm-app-1b8a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15243801056:android:f06345006169e37da8fb85",
+        "android_client_info": {
+          "package_name": "com.rodeveloper.efishfarmappv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcbOshV-RYVFABfUzYffg99PeO99F6UkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
